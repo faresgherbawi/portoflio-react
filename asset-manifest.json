@@ -1,8 +1,7 @@
 {
   "files": {
     "main.css": "/portoflio-react/static/css/main.10bd0f1e.css",
-    "main.js": "/portoflio-react/static/js/main.ff9559dd.js",
-    "static/media/about.png": "/portoflio-react/static/media/about.8923bbc243c137d12ea1.png",
+    "main.js": "/portoflio-react/static/js/main.f7c104a3.js",
     "static/media/woman.png": "/portoflio-react/static/media/woman.0b567228cc502c6c819d.png",
     "static/media/2.png": "/portoflio-react/static/media/2.f024aaddcc41bf605df4.png",
     "static/media/3.png": "/portoflio-react/static/media/3.74a97c517288f9391680.png",
@@ -11,10 +10,10 @@
     "static/media/logo.svg": "/portoflio-react/static/media/logo.826cb5f922b3277a89a21308bace338f.svg",
     "index.html": "/portoflio-react/index.html",
     "main.10bd0f1e.css.map": "/portoflio-react/static/css/main.10bd0f1e.css.map",
-    "main.ff9559dd.js.map": "/portoflio-react/static/js/main.ff9559dd.js.map"
+    "main.f7c104a3.js.map": "/portoflio-react/static/js/main.f7c104a3.js.map"
   },
   "entrypoints": [
     "static/css/main.10bd0f1e.css",
-    "static/js/main.ff9559dd.js"
+    "static/js/main.f7c104a3.js"
   ]
 }
